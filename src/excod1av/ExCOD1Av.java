@@ -21,7 +21,12 @@ public class ExCOD1Av {
         
         // Comentario para el Commit B
         
+        // Creada rama 'exp' y Commit C
+        
+        // Añadido otro commit en la rama 'exp' (Commit D)
         // Comentario para el Commit E
+        
+        // Hecho merge de la rama 'exp' a la 'master' y Commit F
     }
     
 }
